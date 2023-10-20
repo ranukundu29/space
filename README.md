@@ -200,8 +200,7 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
 
 ## Getting started
 
-Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/).
-Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
+I want to share a preview of my site
 
 ### Installation
 
